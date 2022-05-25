@@ -14,6 +14,7 @@ public class MergeSort {
 
     private static void output() {
         int i = 0;
+//        merSort(arr[],l,r);
         while( arr[i] > 0){
             System.out.print(arr[i]);
             i++;
@@ -32,5 +33,19 @@ public class MergeSort {
         i++;
         }
     }
+
+//    public static void merSort(arr[], l, r){
+
+//        if(l <= r){
+//
+//        int mid = (l+r)/2;
+//
+//        merSort(arr[], l, mid);
+//        merSort(arr[],mid+1,r);
+//
+//        merge(arr[],l,mid,r);
+//        }
+
+//    }
 
 }
