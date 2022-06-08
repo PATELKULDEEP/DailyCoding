@@ -8,7 +8,7 @@ public class AddOperationLinkedList {
 
         int n1 = input.nextInt();
         int n2 = input.nextInt();
-        
+
     }
 
 }
